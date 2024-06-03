@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Black",
+        "price": "Rs.1500",
+        "image": "images/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Hybrid View",
+        "price": "Rs.2290",
+        "image": "images/6.png"
+    },
+    {
+        "id": 3,
+        "name": "Cool Party",
+        "price": "Rs.2500",
+        "image": "images/3.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Out door Wear",
+        "price": "Rs.1400",
+        "image": "images/2.png"
+    },
+    {
+        "id": 5,
+        "name": "Rider Choice",
+        "price": "Rs.2120",
+        "image": "images/4.png"
+    },
+    {
+        "id": 6,
+        "name": "Cool Red",
+        "price": "Rs.1120",
+        "image": "images/7.png"
+    }
+    
+]
